@@ -1,0 +1,4 @@
+He intentado mucho lograr este programa, pero Android Studio se trababa incluso si yo no tocaba el programa. Fue un milagro que pudiera hacer lo que hice.
+He tardado aprox. 20 mins en crear un solo archivo y otros 20 en una sola linea de código porque se seguía trabando.
+Pasé una hora intentando correr el programa. Por lo que he visto solo me ocurre a mí luego de actualizar Android Studio.
+Esto fue literalmente todo lo que pude hacer.
